@@ -1,7 +1,7 @@
 package main
 import (
     "net"
-    pb "github.com/matzhouse/go-grpc/proto"
+    pb "github.com/gangadharashettypj/grpc-hello-world/proto"
     "golang.org/x/net/context"
     "google.golang.org/grpc"
     "google.golang.org/grpc/grpclog"
